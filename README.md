@@ -2,7 +2,7 @@
 - 👀 I’m interested in Aerospace and programming
 - 🌱 I’m currently learning Space Science, HTML, CSS, JavaScript, and Python
 - 💞️ I’m looking to collaborate on full-stack applications
-- 📫 How to reach me: anirudhmoolya1999@gmail.com
+- 📫 How to reach me: N/A
 
 <!---
 AnirudhMoolya8/AnirudhMoolya8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
